@@ -17,7 +17,7 @@ export function JsxFunctionControlStmt() {
 
     return (
         <>
-            <h1>JSX Function Control</h1>
+            <h1>--------------------------JSX Function Control----------------------------</h1>
             <h1>Hello, {Getgreeting(user)}</h1>
         </>
     )

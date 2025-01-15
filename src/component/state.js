@@ -15,8 +15,8 @@ export class State extends Component {
         return (
         <>
 
-            <h1>State component</h1>
-            <h1>Count : {this.state.count}</h1>
+            <h1>---------------------State component-------------------------</h1>
+            <h3>Count : {this.state.count}</h3>
             <button onClick={() => this.setState({ count: this.state.count + 1 })}>
             Increment
             </button>

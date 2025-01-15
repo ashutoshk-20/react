@@ -4,7 +4,7 @@ export function JsxAttribute() {
 
     return(
         <>
-            <h1>JSX Attribute Example</h1>
+            <h1>---------------------JSX Attribute Example------------------------</h1>
             <a href={googlelink}>Google</a>
             <font style={{color:colour}}>This is a red color text</font>
         </>

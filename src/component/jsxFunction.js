@@ -10,7 +10,7 @@ export function JsxFunction() {
 
     return (
         <>
-            <h1>JSX Function</h1>
+            <h1>-----------------JSX Function----------------</h1>
             <h1>Hello, {formatName(user)}</h1>
         </>
     )

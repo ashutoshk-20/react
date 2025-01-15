@@ -12,3 +12,5 @@ export {StudentHome} from './studentHome';
 export {StudentHome1} from './studentHome1';
 export {UseStateDemo} from './useStateHook';
 export {SideEffect} from './useEffectHook';
+export {NameForm} from './reactFormsUC';
+export {SignUpForm} from './formikForm';

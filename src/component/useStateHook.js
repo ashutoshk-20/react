@@ -2,6 +2,7 @@
 useState Hook
 
 -allows us to track state in a function component
+-replacement of state object and class component
 
 */
 

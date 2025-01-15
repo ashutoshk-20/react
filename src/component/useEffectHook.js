@@ -20,7 +20,7 @@ export function SideEffect(){
 
     return(
         <div>
-            <h1>Use Effect Hook</h1>
+            <h1>-------------------------------Use Effect Hook--------------------------------</h1>
             <h2>No. of units 5</h2>
             <button onClick={()=> setPrice((prev)=> prev+20)}>Change Price</button>
             <h4>Unit Price : {price}</h4>
