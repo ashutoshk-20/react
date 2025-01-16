@@ -84,11 +84,8 @@ export const SignUpForm = () =>{
             </div>
             <br/>
 
-            <br/><br/>
-
             <button>Submit</button>
         </form>
     )
-
 
 }
